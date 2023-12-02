@@ -33,10 +33,10 @@
                             "packager": "sduino"
                         }
                     ],
-                    "url": "https://github.com/tenbaht/sduino/releases/download/v0.5/sduino-core-0.5.tar.bz2",
+                    "url": "https://github.com/jadenjoy/sduino/releases/download/v0.5/sduino-core-0.5.tar.bz2",
                     "archiveFileName": "sduino-core-0.5.tar.bz2",
-                    "checksum": "SHA-256:16a8083583c704b18921cf5f8ededde925d313b4af6d9d64fa95ae2255e2bbf5",
-                    "size": "2263740"
+                    "checksum": "SHA-256:b06f7cdc2775d00dac681a9b3d0ef821c727fff9e4f23c1986e6067bd6c433c0",
+                    "size": "2191144"
                 },
                 {
                     "name": "Sduino STM8 plain C core (non-C++)",
